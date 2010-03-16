@@ -1,4 +1,5 @@
 require File.expand_path('../lib/will_paginate/version', __FILE__)
+require 'date'
 
 Gem::Specification.new do |gem|
   gem.name    = 'will_paginate'
